@@ -1,5 +1,8 @@
 # react_native_list_prototype
 
+#### 概要
+* 簡易リストページを表示するアプリ
+
 #### 環境構築
 ```
 $ brew install node
