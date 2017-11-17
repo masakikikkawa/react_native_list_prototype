@@ -20,6 +20,7 @@ $ react-native init hogeProject --version 0.49.0
 
 #### ライブラリのインストール
 ```
+$ cd hogeProject
 $ npm install -g react-native-cli
 ```
 
